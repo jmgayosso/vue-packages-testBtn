@@ -1,5 +1,5 @@
 /*!
- * @jmgayosso/test-btn v1.0.0
+ * @jmgayosso/test-btn v1.0.1
  * (c) jmgayosso
  * Released under the ISC License.
  */
@@ -8,7 +8,7 @@
 var vue = require('vue');
 
 var script = {
-  name: 'testBtn',
+  name: 'test-btn',
   methods: {
     click: function click() {
       alert('Clicked');

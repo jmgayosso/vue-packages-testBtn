@@ -1,4 +1,4 @@
-import testBtn from "./components/testBtn.vue";
+import testBtn from "./components/test-btn.vue";
 
 export default {
  install(Vue, options) {

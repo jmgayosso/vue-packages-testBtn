@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: 'testBtn',
+  name: 'test-btn',
   methods: {
     click () {
       alert('Clicked')
