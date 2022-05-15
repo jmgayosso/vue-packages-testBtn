@@ -1,5 +1,5 @@
 /*!
- * @jmgayosso/testBtn v1.0.0
+ * @jmgayosso/test-btn v1.0.0
  * (c) jmgayosso
  * Released under the ISC License.
  */

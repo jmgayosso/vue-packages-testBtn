@@ -1,5 +1,5 @@
 {
-  "name": "@jmgayosso/testBtn",
+  "name": "@jmgayosso/test-btn",
   "version": "1.0.0",
   "description": "This is a test",
   "main": "./dist/index.js",
